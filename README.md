@@ -9,7 +9,8 @@ jQuery-powered event handling
 Error handling for invalid inputs
 
 📸 Screenshot
-![image](https://github.com/user-attachments/assets/830d9199-ed98-4716-80e7-ccfb5b987bbd)
+![image](https://github.com/user-attachments/assets/b6463db5-c556-430d-bb91-3cedb325c298)
+
 
 
 🛠️ Technologies Used
